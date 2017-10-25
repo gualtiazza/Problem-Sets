@@ -1,1 +1,1 @@
-Codes for the 3rd quarter include GMM and Bootstrap
+Codes for the 3rd quarter include mainly GMM and Bootstrap
